@@ -2,6 +2,8 @@
 
 **Working paper · 23 November 2026 · Draft for review**
 
+[العربية — النص الكامل](README.ar.md)
+
 ## Abstract
 
 A short arithmetic circuit may represent a polynomial with exponentially many monomials. Suppose that only $k$ distinct output monomials contain a repeated variable. For a monotone circuit with $s$ gates, we give a circuit of size $O(s(k+1)^3)$ that retains exactly the squarefree monomials and their coefficients. The construction partitions these monomials into at most $k+1$ classes and isolates each class by weighted degree. A separate application of weighted-degree extraction bounds the overlap between two small monotone circuits whose difference is the determinant. The novelty of these statements remains open to review.
